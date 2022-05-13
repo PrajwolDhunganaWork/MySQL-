@@ -1,0 +1,1 @@
+SELECT POWER(3096, 1/4);

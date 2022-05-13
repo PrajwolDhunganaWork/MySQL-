@@ -1,0 +1,1 @@
+SELECT Name FROM country WHERE Name RLIKE 's$' ORDER BY Name;

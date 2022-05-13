@@ -1,0 +1,1 @@
+SELECT 55 DIV 3;

@@ -1,0 +1,1 @@
+SELECT POWER(7,2);

@@ -1,0 +1,1 @@
+SELECT (9>7) IS NOT TRUE;

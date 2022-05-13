@@ -1,0 +1,1 @@
+SELECT POW(7, 2);

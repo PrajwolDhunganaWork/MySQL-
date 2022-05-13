@@ -1,0 +1,1 @@
+SELECT truncate(5552.973, -3);

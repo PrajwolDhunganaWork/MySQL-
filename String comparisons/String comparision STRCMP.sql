@@ -1,0 +1,1 @@
+SELECT name FROM country WHERE STRCMP(Name,'Germany') <=0 ORDER BY name;

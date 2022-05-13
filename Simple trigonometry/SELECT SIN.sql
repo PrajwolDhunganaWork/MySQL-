@@ -1,0 +1,1 @@
+SELECT SIN(3);

@@ -1,0 +1,1 @@
+SELECT ACOS(.4);

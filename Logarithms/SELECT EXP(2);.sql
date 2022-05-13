@@ -1,0 +1,1 @@
+SELECT EXP(2);

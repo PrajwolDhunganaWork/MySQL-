@@ -1,0 +1,1 @@
+SELECT 'string1' || 'string2';
